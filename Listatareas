@@ -1,0 +1,27 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package javavariables;
+
+/**
+ *
+ * @author Usuario
+ */
+public class listadetareas {
+    public static void main (String [] arg){
+        String ta1 = "Trapea la sala";
+        String ta2 = "Lava la ropa";
+        String ta3 = "As de comer";
+        String ta4 = "Ve por el mandado";
+        String ta5 = "Cuida al niño";
+        
+
+        System.out.println("La primera tarea que debo hacer es "+ta1);
+        System.out.println("La segunda tarea que debo hacer es "+ta2);
+        System.out.println("La tercera tarea que debo hacer es "+ta3);
+        System.out.println("La cuarta tarea que debo hacer es "+ta4);
+        System.out.println("La quinta tarea que debo hacer es "+ta5);
+                
+}
+}
